@@ -1,6 +1,9 @@
 
 def levitation_quiz
-	#your code here
+  loop do
+    puts "What's the spell for levitation?"
+    answer = gets.chomp
+    
 end
 
 
